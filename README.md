@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashwi9pawar
+- 👋 Hi, my name is Ashwinkumar Pawar
 - 👀 I’m interested in Data science and machine learning
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me : ashwi9pawar@gmail.com
